@@ -1,11 +1,11 @@
-## Recovery Device Tree for the Samsung Galaxy M31s (Exynos)
+## Recovery Device Tree for the Samsung Galaxy M21 (Exynos)
 
 ## How-to compile it:
 
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
-lunch twrp_m31s-eng
+lunch twrp_m21-eng
 make recoveryimage
 ```
 
