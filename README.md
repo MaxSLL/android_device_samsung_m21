@@ -10,4 +10,4 @@ make recoveryimage
 ```
 
 Kernel source:
-https://github.com/mohammad92/android_kernel_samsung_m31s
+[https://github.com/universal9611-dev/android_kernel_samsung_m21]
