@@ -1,6 +1,6 @@
 ro.display.series=Samsung M21
-ro.product.board=exynos9611
-ro.board.platform=universal9611
+#ro.product.board=exynos9611
+#ro.board.platform=universal9611
 sys.usb.controller=13200000.dwc3
 ro.boot.dynamic_partitions=true
 #fbe.metadata.wrappedkey=true
